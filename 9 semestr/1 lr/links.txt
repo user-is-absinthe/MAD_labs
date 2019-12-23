@@ -1,0 +1,5 @@
+https://www.nltk.org/book/ch02.html
+https://martin-thoma.com/nlp-reuters/
+
+example:
+https://miguelmalvarez.com/2016/11/07/classifying-reuters-21578-collection-with-python/
